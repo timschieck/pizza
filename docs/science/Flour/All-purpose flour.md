@@ -1,0 +1,1 @@
+All-purpose flour is a medium gluten flour (9.5%-11.5%) that is useful for a wide variety of purposes. 

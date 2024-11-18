@@ -1,0 +1,17 @@
+site_name: The Pizza Book
+theme: 
+  name: material
+  palette:
+    primary: red
+  icon:
+    logo: fontawesome/solid/pizza-slice
+  features:
+    - navigation.instant
+    - navigation.tabs
+repo_url: https://github.com/timschieck/pizza.jacensolo.com/
+site_url: https://pizza.jacensolo.com/
+plugins:
+  - search
+  - tags
+extra:
+  generator: false
