@@ -1,0 +1,5 @@
+- [[Béchamel sauce]]: White sauce, based on thickened with a white [[roux]].
+- [[Espagnole sauce]]: Brown sauce based on a brown stock reduction, and thickened with a brown roux. Ingredients typically include roasted bones, bacon, and tomato (puréed or fresh).
+- [[Tomato sauce]] (sometimes _Tomate_ or _Tomat_): As well as tomatoes, ingredients typically include carrots, onion, garlic, butter, and flour, plus pork belly and veal broth.
+- [[Velouté sauce]]: Light colored sauce, made by reducing clear stock (made from un-roasted bones) and thickened with a white [[roux]]. _Velouté_ is French for "velvety".
+- [[Hollandaise sauce]]: Warm emulsion of egg yolk, melted butter, and lemon juice or vinegar.
