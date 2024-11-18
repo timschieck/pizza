@@ -1,0 +1,1 @@
+Warm emulsion of egg yolk, melted butter, and lemon juice or vinegar.
