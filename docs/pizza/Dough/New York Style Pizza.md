@@ -5,14 +5,14 @@ tags:
 source: Tom Lehmann
 ---
 ## Ingredients
-| Amount | Ingredient                                            |
-| ------ | ----------------------------------------------------- |
-| 166ml  | Water                                                 |
-| 263g   | [High-gluten flour](/science/Flour/High-gluten flour/ |
-| 2.5g   | Olive Oil                                             |
-| 4g     | Salt                                                  |
-| 5g     | Yeast                                                 |
-| 8g     | Sugar                                                 |
+| Amount | Ingredient                                             |
+| ------ | ------------------------------------------------------ |
+| 166ml  | Water                                                  |
+| 263g   | [High-gluten flour](/science/Flour/High-gluten flour/) |
+| 2.5g   | Olive Oil                                              |
+| 4g     | Salt                                                   |
+| 5g     | Yeast                                                  |
+| 8g     | Sugar                                                  |
 
 ## Method
 1. Follow straight dough method. 
