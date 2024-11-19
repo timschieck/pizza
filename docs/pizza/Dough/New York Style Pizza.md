@@ -8,7 +8,7 @@ source: Tom Lehmann
 | Amount | Ingredient                                                      |
 | ------ | --------------------------------------------------------------- |
 | 166ml  | Water                                                           |
-| 263g   | [High-gluten flour](/reference/Flour/High-gluten flour.md) |
+| 263g   | [High-gluten flour](/reference/Flour/High-gluten flour) |
 | 2.5g   | Olive Oil                                                       |
 | 4g     | Salt                                                            |
 | 5g     | Yeast                                                           |
