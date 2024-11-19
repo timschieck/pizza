@@ -2,7 +2,7 @@ site_name: The Pizza Book
 theme: 
   name: material
   palette:
-    primary: green
+    primary: red
   icon:
     logo: fontawesome/solid/pizza-slice
   features:
