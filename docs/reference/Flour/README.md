@@ -1,7 +1,7 @@
-- [All-purpose flour](./All-purpose flour.md)
-- [00 flour](Zero Zero flour.md)
-- [Semolina flour](Semolina flour.md)
+- [All-purpose flour](All-purpose flour)
+- [00 flour](Zero Zero flour)
+- [Semolina flour](Semolina flour)
 - Whole-wheat flour
 - Bread flour
 - Cake flour
-- [High-gluten flour](./High-gluten flour.md)
+- [High-gluten flour](High-gluten flour)
