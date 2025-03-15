@@ -1,7 +1,7 @@
 ---
 tags:
-  - pizza
-  - bread
+  - traditional
+  - thin
 aliases: 
 title: 00 Pizza Dough
 ---

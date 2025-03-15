@@ -1,8 +1,8 @@
 ---
 title: New York Style
 tags:
-  - bread
-  - pizza
+  - thin
+  - new-york
 source: Tom Lehmann
 ---
 Ingrediens measured for one 14" pizza.

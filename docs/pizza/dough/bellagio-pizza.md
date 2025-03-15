@@ -1,5 +1,5 @@
 ---
-tags: [bread, pizza, recipe]
+tags: [thin]
 aliases: 
 title: Bellagio Pizza Dough
 source: Nicole Schieck

@@ -1,5 +1,5 @@
 ---
-tags: [pizza, bread, recipe]
+tags: [pan, detroit]
 aliases: 
 title: Crispy Cheesy Pan Pizza
 yields: 1 9" to 10" pan pizza crust

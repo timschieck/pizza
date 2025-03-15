@@ -2,7 +2,25 @@ site_name: The Pizza Book
 theme: 
   name: material
   palette:
-    primary: red
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode 
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      primary: red
+
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: red
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
   icon:
     logo: fontawesome/solid/pizza-slice
   features:
@@ -12,6 +30,11 @@ repo_url: https://github.com/timschieck/pizza
 site_url: https://pizza.jacensolo.com/
 plugins:
   - search
-  - tags
+  - tags:
+      tags_file: tags.md
 extra:
   generator: false
+
+
+palette:
+    

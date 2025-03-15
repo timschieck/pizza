@@ -1,5 +1,5 @@
 ---
-tags: [pizza, bread]
+tags: [thin, deep-dish]
 aliases: 
 title: Giordano’s Pizza Dough
 source: Giordano's Pizzeria
