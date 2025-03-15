@@ -1,16 +1,17 @@
 ---
+title: New York Style
 tags:
   - bread
   - pizza
 source: Tom Lehmann
 ---
-Ingrediens measured for one dough ball.
+Ingrediens measured for one 14" pizza.
 
 ## Ingredients
 | Amount | Ingredient                                                      |
 | ------ | --------------------------------------------------------------- |
 | 166ml  | Water                                                           |
-| 263g   | [High-gluten flour](/reference/Flour/High-gluten flour) |
+| 263g   | [High-gluten flour](/reference/flour#high-gluten)         |
 | 2.5g   | Olive Oil                                                       |
 | 4g     | Salt                                                            |
 | 3g     | Yeast                                                           |

@@ -1,1 +1,0 @@
-Semolina flour is a high-gluten coarsely-milled flour made from durum wheat. 

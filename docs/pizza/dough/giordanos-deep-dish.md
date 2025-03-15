@@ -6,23 +6,21 @@ source: Giordano's Pizzeria
 yields: 2 9-inch deep dish crusts
 serving: 1 slice
 ---
-### Giordano’s Deep Dish Pizza Recipe
-
 Our Chicago deep dish pizza recipe makes two beautiful pies stuffed with mouth-watering mozzarella and any of your other favorite toppings. For the best results, be sure to carefully read the entire recipe before starting the cooking process. If you plan to make both pizzas at the same time, you will need 2 deep dish 9-by-2-inch round cake pans or 9-inch springform pans.
 
-**Yields:** 2 deep dish 9-inch pizzas
-**Serving size:** 1 slice of pizza
-**Number of servings:** 8 per pizza
-**Calories:** 525 calories, depending on additional toppings
-**Fat content:** 34 grams, depending on additional toppings
-**Prep time:** 4 hours, includes rising time
-**Cook time:** 30 minutes
-**Total time:** 4 hours and 30 minutes
+**Yields:** 2 deep dish 9-inch pizzas  
+**Serving size:** 1 slice of pizza  
+**Number of servings:** 8 per pizza  
+**Calories:** 525 calories, depending on additional toppings  
+**Fat content:** 34 grams, depending on additional toppings  
+**Prep time:** 4 hours, includes rising time  
+**Cook time:** 30 minutes  
+**Total time:** 4 hours and 30 minutes  
 
 ## Ingredients
 Amount | Ingredient
 ---|---
-3 1/4 cups | all-purpose flour
+3 1/4 cups | [All-purpose flour](/reference/flour#all-purpose)
 1/2 cup | yellow cornmeal
 1 1/4 teaspoons | fine sea salt
 1 tablespoon | granulated sugar

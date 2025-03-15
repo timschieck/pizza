@@ -1,1 +1,0 @@
-**Roux** is a mixture of [flour](/reference/flour) and [[fat]] cooked together and used to thicken sauces. Roux is typically made from equal parts of flour and fat by weight.

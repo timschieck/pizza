@@ -9,7 +9,7 @@ title: 00 Pizza Dough
 | Amount | Ingredient                                            |
 | ------ | ----------------------------------------------------- |
 | 280ml  | Water                                                 |
-| 380g   | [00 Flour](/reference/Flour/Zero Zero flour) |
+| 380g   | [00 Flour](/reference/flour#zero-zero) |
 | 100g   | Semolina                                              |
 | 36g    | Olive Oil                                             |
 | 14g    | Salt                                                  |

@@ -7,12 +7,12 @@ source: Giordano's Pizzeria
 ## Ingredients
 Amount | Ingredient
 ---|---
-7g | Yeast
+480g | [All-purpose flour](/reference/flour#all-purpose)
 350ml | Warm water (Around 100°)
-480g | All-purpose flour
+40g | Olive oil
 12g | Salt
 8g | Sugar
-40g | Olive oil
+7g | Yeast
 
 ## Method
 1. Follow straight dough method. 

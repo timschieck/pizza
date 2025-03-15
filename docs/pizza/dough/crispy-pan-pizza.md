@@ -8,7 +8,7 @@ source: King Arthur Baking
 ## Ingredients 
 | Amount  | Ingredient        |
 | ------- | ----------------- |
-| 240g    | All-Purpose Flour |
+| 240g    | [All-Purpose Flour](/reference/flour#all-purpose) |
 | 3/4 tsp | salt              |
 | 1/2 tsp | active yeast      |
 | 170g    | lukewarm water    |

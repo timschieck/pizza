@@ -1,9 +1,0 @@
-- Milk
-- Cream
-- Butter
-- Cheese
-- Buttermilk
-- Half and Half
-- Cottage cheese
-- Curds
-- Whey

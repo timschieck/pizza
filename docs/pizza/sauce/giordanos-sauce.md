@@ -1,4 +1,5 @@
 ---
+title: Giordano's Sauce
 tags: [pizza, recipe]
 source: Giordano's Pizzeria
 ---

@@ -1,12 +1,12 @@
 # Styles of Pizza
 ## Neapolitan
-- [Traditional](/pizza/dough/00 Pizza Dough)
-- [New York](/pizza/dough/New York Style Pizza)
+- [Traditional](pizza/dough/00-pizza)
+- [New York](pizza/dough/new-york-style)
 - New Haven (Apizza)
 - St. Louis
 - Tavern
 ## Roman
 ## Sicilian
-- [Detroit](/pizza/dough/Crispy Cheesy Pan Pizza)
+- [Detroit](/pizza/dough/crispy-pan-pizza)
 ## Chicago
-- [Deep Dish](/pizza/dough/Giordano's Deep Dish Dough)
+- [Deep Dish](pizza/dough/giordanos-deep-dish)
