@@ -1,3 +1,6 @@
 [submodule "docs/reference/food_reference"]
 	path = docs/reference/food_reference
 	url = https://github.com/timschieck/food_reference.git
+[submodule "docs/docs/reference"]
+	path = docs/docs/reference
+	url = https://github.com/timschieck/food_reference.git
