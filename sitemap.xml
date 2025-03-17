@@ -36,4 +36,24 @@
          <loc>https://pizza.jacensolo.com/pizza/sauce/giordanos-sauce/</loc>
          <lastmod>2025-03-17</lastmod>
     </url>
+    <url>
+         <loc>https://pizza.jacensolo.com/reference/</loc>
+         <lastmod>2025-03-17</lastmod>
+    </url>
+    <url>
+         <loc>https://pizza.jacensolo.com/reference/flour/</loc>
+         <lastmod>2025-03-17</lastmod>
+    </url>
+    <url>
+         <loc>https://pizza.jacensolo.com/reference/tomato/</loc>
+         <lastmod>2025-03-17</lastmod>
+    </url>
+    <url>
+         <loc>https://pizza.jacensolo.com/reference/terms/bromated/</loc>
+         <lastmod>2025-03-17</lastmod>
+    </url>
+    <url>
+         <loc>https://pizza.jacensolo.com/reference/terms/roux/</loc>
+         <lastmod>2025-03-17</lastmod>
+    </url>
 </urlset>
