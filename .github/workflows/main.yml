@@ -66,8 +66,8 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-pip-
 
-      # - name: Install dependencies
-        # run: python3 -m pip install #-r ./requirements.txt
+      - name: Install dependencies
+        run: python3 -m pip install mkdocs-material #-r ./requirements.txt
 
       - run: mkdocs build
 
